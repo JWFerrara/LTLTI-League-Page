@@ -10,6 +10,7 @@ export const homepageText = `
   <p>Founded in 2010, Let The Liquor Tell It began as a unique spin on Fantasy Football with roster durations UNLIMITED and a focus on Individual Defensive Players (IDP). Each year, the managers compete to win the LTLTI title belt and avoid the dreads of the toilet bowl </p>
   <p>Some managers built immediate win-now teams, while others began the slow process of building a juggernaut dynasty team. A portion of the league prioritized youth and draft picks, the rest graviated towards the steadfast value of veterans. While some managers fled from injuries and down years, others bough the dip and built for the future</p>
   <p>In astounding testament to the league we've only lost two owners (Martin & Unsubscribed) since it's inception. With these changes brought more passionate managers and the competition has become more intense and difficult each year. While the ultimate prize is bragging rights the league champion will also take home a pretty piece of cash! </p>
+  <p>The data listed on this site is SLEEPER RELATED DATA ONLY as of the 2021 season. Unfortunately, cannot connect our legacy data sites from RTS but our league's Google Document has some of that info along with other key information. Check it here - https://docs.google.com/document/d/1K1Jk1CXRr74bJ7YlpXhx5apaq02RG8yNNxVBWhnu2zg/edit?tab=t.0#heading=h.tn3kygyvlztt </p>
 
 `;
 
